@@ -1,4 +1,13 @@
-# Fabric Example Mod with BIN Mappings for beta 1.7.3 server + client
+# Quit Button Mod with BIN Mappings for beta 1.7.3 client
+Hello! This is a small mod I made to un-hide the quit button that exists in beta 1.7.3, but is hidden for some reason. It is a rewrite of my old Risugami's Modloader version of that mod, made with help from [@calmilamsy](https://github.com/calmilamsy) and others on the [Modification Station discord](https://discord.gg/8Qky5XY).
+
+&nbsp;
+
+---
+
+##Original readme from [example mod](https://github.com/calmilamsy/BIN-fabric-example-mod) follows:
+
+---
 
 ## Setup
 
