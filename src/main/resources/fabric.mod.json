@@ -1,12 +1,13 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "quitbutton",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Quit Button",
+  "description": "Un-hides the quit button on the main menu, which exists but is hidden for some reason.",
   "authors": [
-    "Me!"
+    "chexo3",
+    "calmilamsy"
   ],
   "contact": {
     "homepage": "https://glass-launcher.net/",
@@ -14,16 +15,11 @@
   },
 
   "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/quitbutton/icon.png",
 
-  "environment": "*",
-  "entrypoints": {
-    "main": [
-      "net.glasslauncher.example.ExampleMod"
-    ]
-  },
+  "environment": "client",
   "mixins": [
-    "modid.mixins.json"
+    "quitbutton.mixins.json"
   ],
 
   "depends": {
