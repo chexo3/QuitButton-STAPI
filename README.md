@@ -5,7 +5,7 @@ Hello! This is a small mod I made to un-hide the quit button that exists in beta
 
 ---
 
-##Original readme from [example mod](https://github.com/calmilamsy/BIN-fabric-example-mod) follows:
+## Original readme from [example mod](https://github.com/calmilamsy/BIN-fabric-example-mod) follows:
 
 ---
 
