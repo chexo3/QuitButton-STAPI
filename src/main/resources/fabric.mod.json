@@ -10,11 +10,11 @@
     "calmilamsy"
   ],
   "contact": {
-    "homepage": "https://glass-launcher.net/",
-    "sources": "https://github.com/calmilamsy/BIN-fabric-example-mod"
+    "homepage": "https://glass-repo.net/repo/mod/quitbutton",
+    "sources": "https://github.com/chexo3/QuitButton-fabric"
   },
 
-  "license": "CC0-1.0",
+  "license": "MIT",
   "icon": "assets/quitbutton/icon.png",
 
   "environment": "client",
