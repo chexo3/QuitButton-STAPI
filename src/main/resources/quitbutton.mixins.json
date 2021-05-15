@@ -4,7 +4,7 @@
   "package": "me.chexo3.quitbutton.mixin",
   "compatibilityLevel": "JAVA_8",
   "client": [
-    "MinecraftAppletMixin"
+    "MainMenuMixin"
   ],
   "injectors": {
     "defaultRequire": 1
